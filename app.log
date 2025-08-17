@@ -1,0 +1,1381 @@
+2025-08-17 12:42:09,151 - WARNING - Could not load spaCy model for en: [E050] Can't find model 'en_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:09,153 - WARNING - Could not load spaCy model for ru: [E050] Can't find model 'ru_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:09,155 - WARNING - Could not load spaCy model for es: [E050] Can't find model 'es_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:09,157 - WARNING - Could not load spaCy model for fr: [E050] Can't find model 'fr_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:09,161 - WARNING - Could not load spaCy model for de: [E050] Can't find model 'de_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:09,163 - WARNING - Could not load spaCy model for zh: [E050] Can't find model 'zh_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:42:11,226 - INFO - Use pytorch device_name: cpu
+2025-08-17 12:42:11,227 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 12:44:27,826 - INFO - Transformer models loaded successfully
+2025-08-17 12:44:27,830 - INFO - Loaded term cache with 2107 entries
+2025-08-17 12:44:27,861 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 12:44:27,862 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 12:44:27,865 - INFO -  * Restarting with stat
+2025-08-17 12:44:59,713 - WARNING - Could not load spaCy model for en: [E050] Can't find model 'en_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:44:59,715 - WARNING - Could not load spaCy model for ru: [E050] Can't find model 'ru_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:44:59,716 - WARNING - Could not load spaCy model for es: [E050] Can't find model 'es_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:44:59,717 - WARNING - Could not load spaCy model for fr: [E050] Can't find model 'fr_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:44:59,718 - WARNING - Could not load spaCy model for de: [E050] Can't find model 'de_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:44:59,720 - WARNING - Could not load spaCy model for zh: [E050] Can't find model 'zh_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 12:45:01,323 - INFO - Use pytorch device_name: cpu
+2025-08-17 12:45:01,323 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 13:28:02,724 - WARNING - Could not load spaCy model for en: [E050] Can't find model 'en_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:02,725 - WARNING - Could not load spaCy model for ru: [E050] Can't find model 'ru_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:02,726 - WARNING - Could not load spaCy model for es: [E050] Can't find model 'es_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:02,728 - WARNING - Could not load spaCy model for fr: [E050] Can't find model 'fr_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:02,729 - WARNING - Could not load spaCy model for de: [E050] Can't find model 'de_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:02,730 - WARNING - Could not load spaCy model for zh: [E050] Can't find model 'zh_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:28:04,468 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:28:04,468 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 13:36:20,160 - WARNING - Could not load spaCy model for en: [E050] Can't find model 'en_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:20,162 - WARNING - Could not load spaCy model for ru: [E050] Can't find model 'ru_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:20,163 - WARNING - Could not load spaCy model for es: [E050] Can't find model 'es_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:20,165 - WARNING - Could not load spaCy model for fr: [E050] Can't find model 'fr_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:20,166 - WARNING - Could not load spaCy model for de: [E050] Can't find model 'de_core_news_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:20,167 - WARNING - Could not load spaCy model for zh: [E050] Can't find model 'zh_core_web_md'. It doesn't seem to be a Python package or a valid path to a data directory.
+2025-08-17 13:36:21,837 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:36:21,837 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 13:44:18,711 - INFO - Loaded spaCy model for en
+2025-08-17 13:44:19,145 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 13:44:19,234 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 13:44:21,115 - INFO - Loaded spaCy model for ru
+2025-08-17 13:44:22,514 - INFO - Loaded spaCy model for es
+2025-08-17 13:44:30,140 - INFO - Loaded spaCy model for fr
+2025-08-17 13:44:33,529 - INFO - Loaded spaCy model for de
+2025-08-17 13:44:40,131 - INFO - Loaded spaCy model for zh
+2025-08-17 13:44:42,056 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:44:42,056 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 13:44:46,626 - INFO - Transformer models loaded successfully
+2025-08-17 13:44:46,633 - INFO - Loaded term cache with 2107 entries
+2025-08-17 13:44:46,676 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 13:44:46,676 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 13:44:46,679 - INFO -  * Restarting with stat
+2025-08-17 13:45:23,842 - INFO - Loaded spaCy model for en
+2025-08-17 13:45:24,432 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 13:45:24,522 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 13:45:28,047 - INFO - Loaded spaCy model for ru
+2025-08-17 13:45:30,811 - INFO - Loaded spaCy model for es
+2025-08-17 13:45:43,152 - INFO - Loaded spaCy model for fr
+2025-08-17 13:45:52,197 - INFO - Loaded spaCy model for de
+2025-08-17 13:45:57,650 - INFO - Loaded spaCy model for zh
+2025-08-17 13:45:59,360 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:45:59,360 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 13:46:04,458 - INFO - Transformer models loaded successfully
+2025-08-17 13:46:04,462 - INFO - Loaded term cache with 2107 entries
+2025-08-17 13:46:04,487 - WARNING -  * Debugger is active!
+2025-08-17 13:46:04,517 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 13:46:05,947 - INFO - 127.0.0.1 - - [17/Aug/2025 13:46:05] "GET / HTTP/1.1" 200 -
+2025-08-17 13:46:07,250 - INFO - 127.0.0.1 - - [17/Aug/2025 13:46:07] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-08-17 13:46:25,974 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:26,129 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:26,374 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:26,579 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:26,725 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:26,869 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:27,138 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:27,416 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:27,551 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:27,720 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:27,901 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,077 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,205 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,417 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,528 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,646 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,758 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:28,913 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,046 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,233 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,340 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,481 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,598 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,812 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:29,960 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,119 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,229 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,377 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,511 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,753 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,787 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:30,935 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,084 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,192 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,348 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,418 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,493 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,586 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,746 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:46:31,774 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:46:31,774 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 13:47:35,450 - ERROR - Wordcloud error: We need at least 1 word to plot a word cloud, got 0.
+2025-08-17 13:47:35,489 - INFO - 127.0.0.1 - - [17/Aug/2025 13:47:35] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:50:16,126 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:16] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:50:25,178 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:25] "GET / HTTP/1.1" 200 -
+2025-08-17 13:50:40,121 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:40] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:50:42,517 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:42] "GET / HTTP/1.1" 200 -
+2025-08-17 13:50:53,669 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:53] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:50:55,940 - INFO - 127.0.0.1 - - [17/Aug/2025 13:50:55] "GET / HTTP/1.1" 200 -
+2025-08-17 13:51:02,658 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:51:03,024 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:51:03,175 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:51:03,287 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:51:03,819 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:51:03,820 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 13:51:09,199 - ERROR - Topic modeling error: Cannot use scipy.linalg.eigh for sparse A with k >= N. Use scipy.linalg.eigh(A.toarray()) or reduce k.
+2025-08-17 13:51:19,911 - INFO - 127.0.0.1 - - [17/Aug/2025 13:51:19] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:52:36,354 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:36,783 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:37,010 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:37,214 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:37,399 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:37,578 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:37,915 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:38,248 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:38,476 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:38,603 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:38,731 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:38,955 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:39,097 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:39,263 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:39,421 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:52:39,847 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:52:39,847 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 13:53:34,352 - INFO - 127.0.0.1 - - [17/Aug/2025 13:53:34] "POST /search HTTP/1.1" 200 -
+2025-08-17 13:54:24,671 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:24,751 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:24,874 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:24,995 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:25,135 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:25,270 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:25,502 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:25,679 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:25,840 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,049 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,184 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,299 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,338 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,436 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,557 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,717 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:26,969 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,070 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,170 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,303 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,474 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,594 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,715 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,844 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:27,980 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,055 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,140 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,258 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,391 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,481 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,598 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,721 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:28,874 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:29,041 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:29,210 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:29,311 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:29,427 - ERROR - Error extracting terms: unhashable type: 'dict'
+2025-08-17 13:54:29,805 - INFO - Use pytorch device_name: cpu
+2025-08-17 13:54:29,805 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 13:55:32,299 - ERROR - Wordcloud error: We need at least 1 word to plot a word cloud, got 0.
+2025-08-17 13:55:32,359 - INFO - 127.0.0.1 - - [17/Aug/2025 13:55:32] "POST /search HTTP/1.1" 200 -
+2025-08-17 14:01:48,261 - ERROR - File processing error: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\yurch\\AppData\\Local\\Temp\\tmpy9j1ccsz.pdf'
+2025-08-17 14:01:48,284 - INFO - 127.0.0.1 - - [17/Aug/2025 14:01:48] "POST /upload HTTP/1.1" 200 -
+2025-08-17 14:02:06,019 - INFO - 127.0.0.1 - - [17/Aug/2025 14:02:06] "GET / HTTP/1.1" 200 -
+2025-08-17 14:02:25,854 - ERROR - File processing error: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\yurch\\AppData\\Local\\Temp\\tmpv2h924uk.docx'
+2025-08-17 14:02:25,871 - INFO - 127.0.0.1 - - [17/Aug/2025 14:02:25] "POST /upload HTTP/1.1" 200 -
+2025-08-17 14:02:36,004 - INFO - 127.0.0.1 - - [17/Aug/2025 14:02:36] "GET / HTTP/1.1" 200 -
+2025-08-17 14:02:51,098 - INFO - 127.0.0.1 - - [17/Aug/2025 14:02:51] "POST /upload HTTP/1.1" 200 -
+2025-08-17 14:02:52,909 - INFO - 127.0.0.1 - - [17/Aug/2025 14:02:52] "GET / HTTP/1.1" 200 -
+2025-08-17 14:03:01,859 - WARNING - Neither CUDA nor MPS are available - defaulting to CPU. Note: This module is much faster with a GPU.
+2025-08-17 14:03:13,442 - ERROR - File processing error: [WinError 32] Процесс не может получить доступ к файлу, так как этот файл занят другим процессом: 'C:\\Users\\yurch\\AppData\\Local\\Temp\\tmp3i9s7t16.png'
+2025-08-17 14:03:13,480 - INFO - 127.0.0.1 - - [17/Aug/2025 14:03:13] "POST /upload HTTP/1.1" 200 -
+2025-08-17 15:48:53,723 - INFO - Loaded spaCy model for en
+2025-08-17 15:48:54,106 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 15:48:54,197 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 15:48:56,189 - INFO - Loaded spaCy model for ru
+2025-08-17 15:48:57,713 - INFO - Loaded spaCy model for es
+2025-08-17 15:49:04,981 - INFO - Loaded spaCy model for fr
+2025-08-17 15:49:07,572 - INFO - Loaded spaCy model for de
+2025-08-17 15:49:10,129 - INFO - Loaded spaCy model for zh
+2025-08-17 15:49:12,016 - INFO - Use pytorch device_name: cpu
+2025-08-17 15:49:12,016 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 15:49:17,457 - INFO - Transformer models loaded successfully
+2025-08-17 15:49:17,465 - INFO - Loaded term cache with 2107 entries
+2025-08-17 15:49:17,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 15:49:17,524 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 15:49:17,528 - INFO -  * Restarting with stat
+2025-08-17 15:49:41,622 - INFO - Loaded spaCy model for en
+2025-08-17 15:49:42,070 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 15:49:42,147 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 15:49:44,209 - INFO - Loaded spaCy model for ru
+2025-08-17 15:49:45,709 - INFO - Loaded spaCy model for es
+2025-08-17 15:49:53,500 - INFO - Loaded spaCy model for fr
+2025-08-17 15:49:58,559 - INFO - Loaded spaCy model for de
+2025-08-17 15:50:04,495 - INFO - Loaded spaCy model for zh
+2025-08-17 15:50:06,292 - INFO - Use pytorch device_name: cpu
+2025-08-17 15:50:06,293 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 15:50:11,435 - INFO - Transformer models loaded successfully
+2025-08-17 15:50:11,439 - INFO - Loaded term cache with 2107 entries
+2025-08-17 15:50:11,455 - WARNING -  * Debugger is active!
+2025-08-17 15:50:11,477 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 15:50:12,529 - INFO - 127.0.0.1 - - [17/Aug/2025 15:50:12] "GET / HTTP/1.1" 200 -
+2025-08-17 15:50:49,173 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:51:23,255 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:51:30,853 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:52:12,749 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:52:32,223 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:52:53,769 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:13,244 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:13,458 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:13,706 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:19,628 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:23,820 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:31,307 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 15:53:47,112 - INFO - Use pytorch device_name: cpu
+2025-08-17 15:53:47,112 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 15:54:09,457 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:12,734 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:18,383 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:22,317 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:25,815 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:29,357 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:31,818 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:37,645 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:43,026 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:54:57,952 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:04,563 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:08,327 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:13,166 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:16,230 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:18,380 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:19,755 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:22,155 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:37,685 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 15:55:37,686 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:53,220 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 15:55:53,220 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:55:56,933 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 15:56:04,233 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 15:56:04,361 - INFO - 127.0.0.1 - - [17/Aug/2025 15:56:04] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2025-08-17 15:56:04,480 - INFO - 127.0.0.1 - - [17/Aug/2025 15:56:04] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-08-17 15:56:04,580 - INFO - 127.0.0.1 - - [17/Aug/2025 15:56:04] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-08-17 15:56:04,915 - INFO - 127.0.0.1 - - [17/Aug/2025 15:56:04] "GET /search?__debugger__=yes&cmd=resource&f=console.png&s=Vs4LYuRmg0mvGc0OJ2Vj HTTP/1.1" 200 -
+2025-08-17 16:00:14,640 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:15,064 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:15,419 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:16,222 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:16,650 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:17,070 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:17,504 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:17,706 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:17,953 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:18,260 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:18,443 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:18,590 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:00:19,247 - INFO - Use pytorch device_name: cpu
+2025-08-17 16:00:19,247 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 16:00:24,780 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:26,879 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:28,820 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:42,635 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:48,649 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:52,388 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:54,795 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:56,457 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:00:58,333 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:01,415 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:03,440 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:05,051 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:09,581 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:11,866 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:14,705 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:27,716 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:29,763 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:31,578 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:34,028 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:36,511 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:01:41,791 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 16:01:41,835 - INFO - 127.0.0.1 - - [17/Aug/2025 16:01:41] "[35m[1mPOST /search HTTP/1.1[0m" 500 -
+2025-08-17 16:01:43,401 - INFO - 127.0.0.1 - - [17/Aug/2025 16:01:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-08-17 16:01:43,402 - INFO - 127.0.0.1 - - [17/Aug/2025 16:01:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-08-17 16:01:43,430 - INFO - 127.0.0.1 - - [17/Aug/2025 16:01:43] "[36mGET /search?__debugger__=yes&cmd=resource&f=console.png&s=Vs4LYuRmg0mvGc0OJ2Vj HTTP/1.1[0m" 304 -
+2025-08-17 16:08:09,382 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 16:08:15,609 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 16:08:39,342 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 16:08:39,397 - INFO - 127.0.0.1 - - [17/Aug/2025 16:08:39] "POST /upload HTTP/1.1" 200 -
+2025-08-17 16:08:39,442 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 16:08:39,484 - INFO - 127.0.0.1 - - [17/Aug/2025 16:08:39] "POST /upload HTTP/1.1" 200 -
+2025-08-17 16:52:31,748 - INFO - Loaded spaCy model for en
+2025-08-17 16:52:32,126 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 16:52:32,221 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 16:52:34,345 - INFO - Loaded spaCy model for ru
+2025-08-17 16:52:35,879 - INFO - Loaded spaCy model for es
+2025-08-17 16:52:43,982 - INFO - Loaded spaCy model for fr
+2025-08-17 16:52:46,738 - INFO - Loaded spaCy model for de
+2025-08-17 16:52:49,424 - INFO - Loaded spaCy model for zh
+2025-08-17 16:52:51,274 - INFO - Use pytorch device_name: cpu
+2025-08-17 16:52:51,274 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 16:52:55,791 - INFO - Transformer models loaded successfully
+2025-08-17 16:52:55,793 - INFO - Loaded term cache with 2329 entries
+2025-08-17 16:52:55,819 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 16:52:55,819 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 16:52:55,823 - INFO -  * Restarting with stat
+2025-08-17 16:53:21,557 - INFO - Loaded spaCy model for en
+2025-08-17 16:53:22,263 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 16:53:22,309 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 16:53:25,651 - INFO - Loaded spaCy model for ru
+2025-08-17 16:53:28,628 - INFO - Loaded spaCy model for es
+2025-08-17 16:53:37,062 - INFO - Loaded spaCy model for fr
+2025-08-17 16:53:39,780 - INFO - Loaded spaCy model for de
+2025-08-17 16:53:42,526 - INFO - Loaded spaCy model for zh
+2025-08-17 16:53:44,137 - INFO - Use pytorch device_name: cpu
+2025-08-17 16:53:44,137 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 16:53:51,168 - INFO - Transformer models loaded successfully
+2025-08-17 16:53:51,172 - INFO - Loaded term cache with 2329 entries
+2025-08-17 16:53:51,185 - WARNING -  * Debugger is active!
+2025-08-17 16:53:51,205 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 16:53:52,173 - INFO - 127.0.0.1 - - [17/Aug/2025 16:53:52] "GET / HTTP/1.1" 200 -
+2025-08-17 16:54:10,556 - ERROR - UMLS query error for Adaptive strategies: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:17,398 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:54:27,170 - ERROR - UMLS query error for common childhood: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:31,127 - ERROR - UMLS query error for individual sacrifice: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:32,810 - ERROR - UMLS query error for societal risk: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:33,352 - ERROR - UMLS query error for virtual focus: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:36,181 - ERROR - UMLS query error for mothers from parenting: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:38,082 - ERROR - UMLS query error for importance of relationships: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:38,625 - ERROR - UMLS query error for pharmacological prevention: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:41,430 - ERROR - UMLS query error for depth interviews: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:44,268 - ERROR - UMLS query error for theoretical framework: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:45,947 - ERROR - UMLS query error for many managing: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:47,617 - ERROR - UMLS query error for struggle as adult: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:50,414 - ERROR - UMLS query error for shortages of money: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:52,076 - ERROR - UMLS query error for community of neighbours: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:55,051 - ERROR - UMLS query error for learning resource: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:56,764 - ERROR - UMLS query error for effective conversations: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:54:59,536 - ERROR - UMLS query error for urgent challenge: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:02,328 - ERROR - UMLS query error for skills elements: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:02,894 - ERROR - UMLS query error for narrative learning: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:04,587 - ERROR - UMLS query error for fictional characters: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:06,262 - ERROR - UMLS query error for characters with students: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:10,182 - ERROR - UMLS query error for survey of pre-: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:10,727 - ERROR - UMLS query error for post- module: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:11,285 - ERROR - UMLS query error for module self: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:11,999 - ERROR - UMLS query error for psychometric properties: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:14,796 - ERROR - UMLS query error for individuals with schizophrenia: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:16,490 - ERROR - UMLS query error for Sample adequacy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:17,055 - ERROR - UMLS query error for item correlation: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:17,606 - ERROR - UMLS query error for correlation matrix: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:18,157 - ERROR - UMLS query error for Exploratory factor: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:19,864 - ERROR - UMLS query error for underlying factors: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:20,425 - ERROR - UMLS query error for convergent validity: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:20,991 - ERROR - UMLS query error for validity correlations: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:23,777 - ERROR - UMLS query error for consistency reliability: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:29,193 - ERROR - UMLS query error for CoV-2 bacteriophage: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:29,746 - ERROR - UMLS query error for bacteriophage potential: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:33,088 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:55:33,802 - ERROR - UMLS query error for industrial revolution: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:34,346 - ERROR - UMLS query error for revolution in teaching: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:42,796 - ERROR - UMLS query error for intermediate phase: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:43,335 - ERROR - UMLS query error for senior phase: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:45,007 - ERROR - UMLS query error for training phases: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:46,690 - ERROR - UMLS query error for interviews with teachers: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:48,389 - ERROR - UMLS query error for typology approach: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:50,058 - ERROR - UMLS query error for challenges with teaching: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:50,059 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:55:50,816 - ERROR - UMLS query error for relevant literature: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:51,377 - ERROR - UMLS query error for literature on supply: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:53,037 - ERROR - UMLS query error for chain disruption: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:53,602 - ERROR - UMLS query error for disruption monitoring: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:57,529 - ERROR - UMLS query error for information for clinicians: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:59,183 - ERROR - UMLS query error for system leaders: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:55:59,729 - ERROR - UMLS query error for rapid review: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:03,626 - ERROR - UMLS query error for literature searches: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:07,519 - ERROR - UMLS query error for unique citations: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:08,184 - ERROR - UMLS query error for relationship of age: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:12,176 - ERROR - UMLS query error for prevalence data: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:12,722 - ERROR - UMLS query error for highest mortality: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:21,162 - ERROR - UMLS query error for various search: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:21,707 - ERROR - UMLS query error for search sources: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:23,418 - ERROR - UMLS query error for gender analysis: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:24,234 - ERROR - UMLS query error for lessons from person: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:30,455 - ERROR - UMLS query error for sector organisations: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:33,265 - ERROR - UMLS query error for link worker: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:33,803 - ERROR - UMLS query error for neighbourhood coach: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:37,656 - ERROR - UMLS query error for practical support: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:38,209 - ERROR - UMLS query error for recent investment: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:39,858 - ERROR - UMLS query error for policy context: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:40,419 - ERROR - UMLS query error for different contexts: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:45,657 - ERROR - UMLS query error for suggestions from governments: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:46,220 - ERROR - UMLS query error for distance between people: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:46,778 - ERROR - UMLS query error for aerosol transmission: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:48,448 - ERROR - UMLS query error for long table: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:50,129 - ERROR - UMLS query error for pandemic data: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:50,677 - ERROR - UMLS query error for pandemic results: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:51,257 - ERROR - UMLS query error for psychological framework: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:52,913 - ERROR - UMLS query error for distancing practices: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 16:56:52,919 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 16:56:52,954 - INFO - Use pytorch device_name: cpu
+2025-08-17 16:56:52,955 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 16:57:12,536 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:16,881 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:20,409 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:23,954 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:26,899 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:29,577 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:33,524 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:37,898 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:42,819 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:46,983 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:51,302 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 16:57:57,907 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 16:57:57,950 - INFO - 127.0.0.1 - - [17/Aug/2025 16:57:57] "POST /search HTTP/1.1" 200 -
+2025-08-17 16:59:23,256 - INFO - 127.0.0.1 - - [17/Aug/2025 16:59:23] "GET / HTTP/1.1" 200 -
+2025-08-17 16:59:37,017 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 17:00:07,453 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:08,935 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:00:09,505 - INFO - 127.0.0.1 - - [17/Aug/2025 17:00:09] "POST /search HTTP/1.1" 200 -
+2025-08-17 17:00:13,741 - INFO - 127.0.0.1 - - [17/Aug/2025 17:00:13] "GET / HTTP/1.1" 200 -
+2025-08-17 17:00:22,473 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:00:23,536 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:00:23,772 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:00:24,470 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:00:25,358 - INFO - Use pytorch device_name: cpu
+2025-08-17 17:00:25,359 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 17:00:31,660 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:35,376 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:39,199 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:43,524 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:46,357 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:00:49,769 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:05,001 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:08,661 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:12,068 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:15,732 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:20,593 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:01:28,283 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:01:28,337 - INFO - 127.0.0.1 - - [17/Aug/2025 17:01:28] "POST /search HTTP/1.1" 200 -
+2025-08-17 17:01:52,921 - INFO - 127.0.0.1 - - [17/Aug/2025 17:01:52] "GET / HTTP/1.1" 200 -
+2025-08-17 17:03:50,833 - ERROR - UMLS query error for 2025 г.: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:51,394 - ERROR - UMLS query error for международ -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:51,938 - ERROR - UMLS query error for баз данных: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:52,478 - ERROR - UMLS query error for засчитыва -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:53,011 - ERROR - UMLS query error for 20 мая: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:53,557 - ERROR - UMLS query error for 2010 г.: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:54,112 - ERROR - UMLS query error for лет публикации: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:54,670 - ERROR - UMLS query error for т.е. текста: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:55,221 - ERROR - UMLS query error for завер -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:55,770 - ERROR - UMLS query error for повтор -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:56,581 - ERROR - UMLS query error for ное рецензирование: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:57,132 - ERROR - UMLS query error for 2-х месяцев: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:57,683 - ERROR - UMLS query error for им. академика: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:58,227 - ERROR - UMLS query error for нанотехно -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:58,786 - ERROR - UMLS query error for I степени: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:03:59,324 - ERROR - UMLS query error for произво -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:04:01,291 - ERROR - UMLS query error for государ -: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:04:01,835 - ERROR - UMLS query error for студентов -спортсменов: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:04:46,275 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 17:04:53,251 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 17:04:53,267 - INFO - 127.0.0.1 - - [17/Aug/2025 17:04:53] "POST /upload HTTP/1.1" 200 -
+2025-08-17 17:05:21,660 - INFO - 127.0.0.1 - - [17/Aug/2025 17:05:21] "GET / HTTP/1.1" 200 -
+2025-08-17 17:06:10,349 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:06:10,631 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:06:12,854 - ERROR - UMLS query error for expansion of telehealth: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:17,105 - ERROR - UMLS query error for individuals with attention: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:18,321 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:06:20,429 - ERROR - UMLS query error for orthodontic photographs: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:23,285 - ERROR - UMLS query error for lens reflex: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:24,132 - ERROR - UMLS query error for clinical photographs: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:24,693 - ERROR - UMLS query error for mirrorless camera: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:26,366 - ERROR - UMLS query error for oral photographs: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:28,039 - ERROR - UMLS query error for colour accuracy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:28,663 - ERROR - UMLS query error for specific errors: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:46,569 - ERROR - UMLS query error for unique role: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:47,108 - ERROR - UMLS query error for cultural context: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:49,889 - ERROR - UMLS query error for maltreatment behavior: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:50,442 - ERROR - UMLS query error for cultural framework: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:51,005 - ERROR - UMLS query error for pairs of parents: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:57,742 - ERROR - UMLS query error for emotional dysregulation: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:58,578 - ERROR - UMLS query error for Power arms: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:59,124 - ERROR - UMLS query error for arms as adjuncts: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:06:59,679 - ERROR - UMLS query error for adjuncts for root: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:02,777 - ERROR - UMLS query error for incisor extraction: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:03,895 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:07:04,683 - ERROR - UMLS query error for Capability for suicide: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:07,460 - ERROR - UMLS query error for suicidal capability: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:08,001 - ERROR - UMLS query error for unique subcomponents: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:09,940 - ERROR - UMLS query error for single aspects: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:10,485 - ERROR - UMLS query error for aspects of capability: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:11,050 - ERROR - UMLS query error for fearlessness of death: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:11,585 - ERROR - UMLS query error for present research: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:12,136 - ERROR - UMLS query error for relevant samples: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:13,835 - ERROR - UMLS query error for levels of psychopathology: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:18,943 - ERROR - UMLS query error for distinct subscales: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:24,351 - ERROR - UMLS query error for antigen after radiotherapy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:25,792 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:07:34,634 - ERROR - UMLS query error for message programme: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:36,666 - ERROR - UMLS query error for support during pregnancy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:37,217 - ERROR - UMLS query error for high proportion: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:40,025 - ERROR - UMLS query error for evaluation of txtpepi: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:41,702 - ERROR - UMLS query error for user data: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:43,369 - ERROR - UMLS query error for degree of reach: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:43,929 - ERROR - UMLS query error for Ongoing maintenance: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:44,471 - ERROR - UMLS query error for maintenance of txtpepi: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:48,841 - ERROR - UMLS query error for myelin thickness: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:49,380 - ERROR - UMLS query error for larger g: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:51,089 - ERROR - UMLS query error for thinner myelin: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:53,843 - ERROR - UMLS query error for internodal function: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:55,534 - ERROR - UMLS query error for such assumptions: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:07:57,184 - ERROR - UMLS query error for theoretical conditions: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:00,010 - ERROR - UMLS query error for small caliber: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:00,844 - ERROR - UMLS query error for caliber fibers: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:01,400 - ERROR - UMLS query error for Typical analyses: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:01,953 - ERROR - UMLS query error for analyses of myelin: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:05,052 - ERROR - UMLS query error for Indian workers: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:06,200 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:07,013 - ERROR - UMLS query error for Survivors of COVID-19: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:07,565 - ERROR - UMLS query error for new vulnerability: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:12,892 - ERROR - UMLS query error for proteomic regulators: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:15,977 - ERROR - UMLS query error for comprehensive consequences: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:17,645 - ERROR - UMLS query error for unique DEGs: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:18,374 - ERROR - UMLS query error for Ubiquitination dynamics: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:20,032 - ERROR - UMLS query error for tumour viruses: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:22,689 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:24,626 - ERROR - UMLS query error for mitochondrial proteome: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:29,155 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:35,723 - ERROR - UMLS query error for potential for psoriasis: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:36,282 - ERROR - UMLS query error for psoriasis therapy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:36,285 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:39,341 - ERROR - UMLS query error for matter hyperintensities: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:41,029 - ERROR - UMLS query error for thalamic subregions: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:43,861 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:44,725 - ERROR - UMLS query error for biobanking processes: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:44,727 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:08:52,759 - ERROR - UMLS query error for auditory abilities: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:54,430 - ERROR - UMLS query error for model analyses: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:56,093 - ERROR - UMLS query error for questionnaire section: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:08:57,785 - ERROR - UMLS query error for speech questions: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:09:00,894 - ERROR - UMLS query error for same pitch: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:09:03,756 - ERROR - UMLS query error for female advantage: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 17:09:05,192 - INFO - Use pytorch device_name: cpu
+2025-08-17 17:09:05,192 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 17:09:10,988 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:13,152 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:15,299 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:17,942 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:30,043 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:32,080 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:36,087 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:38,015 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:39,639 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:52,949 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:54,921 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:56,870 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:09:58,574 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:01,029 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:02,678 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:04,171 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:05,993 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:08,085 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:09,899 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:12,158 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:10:17,733 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:10:17,789 - INFO - 127.0.0.1 - - [17/Aug/2025 17:10:17] "POST /search HTTP/1.1" 200 -
+2025-08-17 17:12:26,394 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:26,524 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:26,737 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:27,350 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:27,725 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:28,196 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:28,545 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:28,706 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:28,873 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:29,075 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:29,317 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:12:29,493 - INFO - Use pytorch device_name: cpu
+2025-08-17 17:12:29,493 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 17:12:34,485 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:12:36,276 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:12:41,426 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:12:44,320 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:12:57,339 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:00,367 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:01,996 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:03,766 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:05,666 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:07,437 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:19,929 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:22,879 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:25,192 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:26,672 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:28,692 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:30,840 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:32,875 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:34,333 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:35,977 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:37,667 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:13:43,844 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:13:43,900 - INFO - 127.0.0.1 - - [17/Aug/2025 17:13:43] "POST /search HTTP/1.1" 200 -
+2025-08-17 17:27:51,292 - INFO - 127.0.0.1 - - [17/Aug/2025 17:27:51] "GET / HTTP/1.1" 200 -
+2025-08-17 17:28:17,958 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 17:28:22,372 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:28:22,661 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:28:22,677 - INFO - 127.0.0.1 - - [17/Aug/2025 17:28:22] "POST /search HTTP/1.1" 200 -
+2025-08-17 17:28:25,112 - INFO - 127.0.0.1 - - [17/Aug/2025 17:28:25] "GET / HTTP/1.1" 200 -
+2025-08-17 17:28:54,653 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:54,779 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:54,987 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:55,651 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:56,076 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:56,544 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:56,880 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:57,036 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:57,210 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:57,395 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:57,643 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 17:28:58,417 - INFO - Use pytorch device_name: cpu
+2025-08-17 17:28:58,417 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 17:29:04,042 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:05,507 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:07,974 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:10,799 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:12,355 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:14,069 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:15,746 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:17,320 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:20,054 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:23,230 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:25,178 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:27,193 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:40,320 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:43,086 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:45,574 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:47,113 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:48,494 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:50,028 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:51,642 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:53,654 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 17:29:58,599 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 17:29:58,661 - INFO - 127.0.0.1 - - [17/Aug/2025 17:29:58] "POST /search HTTP/1.1" 200 -
+2025-08-17 19:13:44,422 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 19:13:46,289 - INFO - Loaded spaCy model for en
+2025-08-17 19:13:46,700 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 19:13:46,805 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 19:13:48,801 - INFO - Loaded spaCy model for ru
+2025-08-17 19:13:50,365 - INFO - Loaded spaCy model for es
+2025-08-17 19:13:57,688 - INFO - Loaded spaCy model for fr
+2025-08-17 19:14:00,299 - INFO - Loaded spaCy model for de
+2025-08-17 19:14:02,892 - INFO - Loaded spaCy model for zh
+2025-08-17 19:14:05,031 - INFO - Use pytorch device_name: cpu
+2025-08-17 19:14:05,032 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 19:14:09,820 - INFO - Transformer models loaded successfully
+2025-08-17 19:14:09,830 - INFO - Loaded term cache with 2711 entries
+2025-08-17 19:14:09,877 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 19:14:09,877 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 19:14:09,880 - INFO -  * Restarting with stat
+2025-08-17 19:14:34,733 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 19:14:36,403 - INFO - Loaded spaCy model for en
+2025-08-17 19:14:36,790 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 19:14:36,834 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 19:14:38,730 - INFO - Loaded spaCy model for ru
+2025-08-17 19:14:40,110 - INFO - Loaded spaCy model for es
+2025-08-17 19:14:47,507 - INFO - Loaded spaCy model for fr
+2025-08-17 19:14:50,240 - INFO - Loaded spaCy model for de
+2025-08-17 19:14:54,670 - INFO - Loaded spaCy model for zh
+2025-08-17 19:14:56,380 - INFO - Use pytorch device_name: cpu
+2025-08-17 19:14:56,380 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-08-17 19:15:02,366 - INFO - Transformer models loaded successfully
+2025-08-17 19:15:02,371 - INFO - Loaded term cache with 2711 entries
+2025-08-17 19:15:02,389 - WARNING -  * Debugger is active!
+2025-08-17 19:15:02,416 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 19:15:03,609 - INFO - 127.0.0.1 - - [17/Aug/2025 19:15:03] "GET / HTTP/1.1" 200 -
+2025-08-17 19:16:25,080 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:16:27,369 - ERROR - UMLS query error for novel strategies: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:31,276 - ERROR - UMLS query error for host targets: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:31,278 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:16:35,689 - ERROR - UMLS query error for recent outbreak: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:36,227 - ERROR - UMLS query error for means of service: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:37,900 - ERROR - UMLS query error for wider population: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:41,264 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:16:45,368 - ERROR - UMLS query error for future use: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:45,924 - ERROR - UMLS query error for main question: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:46,476 - ERROR - UMLS query error for service cycle: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:49,769 - ERROR - UMLS query error for Structural disadvantage: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:49,771 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:16:51,785 - ERROR - UMLS query error for French healthcare: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:52,908 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:16:53,865 - ERROR - UMLS query error for Cardiorenal outcomes: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:16:54,419 - ERROR - UMLS query error for outcomes after herpes: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:04,194 - ERROR - UMLS query error for symptomatic individuals: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:06,153 - ERROR - UMLS query error for critical component: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:06,156 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:08,069 - ERROR - UMLS query error for professional perspectives: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:10,838 - ERROR - UMLS query error for online survey: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:13,628 - ERROR - UMLS query error for open text: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:17,392 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:22,883 - ERROR - UMLS query error for exposure definition: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:24,532 - ERROR - UMLS query error for unvaccinated time: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:28,138 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:28,334 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:31,192 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:32,017 - ERROR - UMLS query error for microbiota patterns: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:35,412 - ERROR - UMLS query error for Many microorganisms: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:37,066 - ERROR - UMLS query error for variable behaviour: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:38,194 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:39,003 - ERROR - UMLS query error for comprehensive student: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:40,693 - ERROR - UMLS query error for student success: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:41,240 - ERROR - UMLS query error for critical factors: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:41,795 - ERROR - UMLS query error for success in pharmacy: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:43,458 - ERROR - UMLS query error for Ineffective study: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:45,106 - ERROR - UMLS query error for prevalent barrier: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:45,652 - ERROR - UMLS query error for academic preparation: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:45,654 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:46,332 - ERROR - UMLS query error for hybrid nanoparticles: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:47,723 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:49,632 - ERROR - UMLS query error for surgical waitlists: cannot access local variable 'resp' where it is not associated with a value
+2025-08-17 19:17:49,634 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:17:49,654 - INFO - Use pytorch device_name: cpu
+2025-08-17 19:17:49,654 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 19:18:18,267 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:23,506 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:28,217 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:32,181 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:36,753 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:44,474 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:18:49,672 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:07,343 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:10,980 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:17,618 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:21,851 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:28,159 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:34,455 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:38,204 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:43,186 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:46,942 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:19:50,912 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:20:04,221 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:20:07,264 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:20:13,327 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:20:22,321 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 19:20:24,828 - INFO - 127.0.0.1 - - [17/Aug/2025 19:20:24] "POST /search HTTP/1.1" 200 -
+2025-08-17 19:22:25,317 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:25,781 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:26,107 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:26,615 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:26,874 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:27,393 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:27,882 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:28,437 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:28,640 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:28,927 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:29,209 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:29,384 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:29,562 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:29,830 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 19:22:30,677 - INFO - Use pytorch device_name: cpu
+2025-08-17 19:22:30,678 - INFO - Load pretrained SentenceTransformer: sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2
+2025-08-17 19:22:36,826 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:22:39,978 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:22:42,594 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:22:45,509 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:22:52,347 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:22:59,087 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:01,973 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:07,095 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:22,623 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 19:23:22,624 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:26,344 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:28,925 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:35,507 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:39,559 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:44,266 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:23:48,437 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:01,672 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.22.236:8064
+
+2025-08-17 19:24:01,672 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:13,950 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.18.179:8064
+
+2025-08-17 19:24:13,950 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:18,519 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:21,025 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:25,020 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\en'
+2025-08-17 19:24:31,724 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 19:24:33,827 - INFO - 127.0.0.1 - - [17/Aug/2025 19:24:33] "POST /search HTTP/1.1" 200 -
+2025-08-17 19:27:23,190 - ERROR - Pullenti processing error: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 19:28:07,174 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 19:28:26,130 - ERROR - Error in preprocess_text: No such file or directory: 'C:\\Users\\yurch\\AppData\\Roaming\\nltk_data\\corpora\\stopwords\\ru'
+2025-08-17 19:28:26,191 - INFO - 127.0.0.1 - - [17/Aug/2025 19:28:26] "POST /upload HTTP/1.1" 200 -
+2025-08-17 19:28:48,290 - INFO - 127.0.0.1 - - [17/Aug/2025 19:28:48] "GET / HTTP/1.1" 200 -
+2025-08-17 22:05:22,896 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:05:24,942 - INFO - Loaded spaCy model for en
+2025-08-17 22:05:25,526 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 22:05:25,635 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 22:05:27,802 - INFO - Loaded spaCy model for ru
+2025-08-17 22:05:29,404 - INFO - Loaded spaCy model for es
+2025-08-17 22:05:37,147 - INFO - Loaded spaCy model for fr
+2025-08-17 22:05:39,870 - INFO - Loaded spaCy model for de
+2025-08-17 22:05:42,665 - INFO - Loaded spaCy model for zh
+2025-08-17 22:05:55,590 - ERROR - Error loading SentenceTransformer: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-08-17 22:05:57,525 - INFO - Transformer models loaded successfully
+2025-08-17 22:05:57,528 - INFO - Loaded term cache with 2796 entries
+2025-08-17 22:05:57,558 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 22:05:57,558 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 22:05:57,562 - INFO -  * Restarting with stat
+2025-08-17 22:06:10,329 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:06:12,010 - INFO - Loaded spaCy model for en
+2025-08-17 22:06:12,606 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 22:06:12,652 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 22:06:14,516 - INFO - Loaded spaCy model for ru
+2025-08-17 22:06:16,157 - INFO - Loaded spaCy model for es
+2025-08-17 22:06:25,708 - INFO - Loaded spaCy model for fr
+2025-08-17 22:06:30,202 - INFO - Loaded spaCy model for de
+2025-08-17 22:06:36,464 - INFO - Loaded spaCy model for zh
+2025-08-17 22:06:47,718 - ERROR - Error loading SentenceTransformer: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-08-17 22:06:51,651 - INFO - Transformer models loaded successfully
+2025-08-17 22:06:51,655 - INFO - Loaded term cache with 2796 entries
+2025-08-17 22:06:51,670 - WARNING -  * Debugger is active!
+2025-08-17 22:06:51,692 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 22:06:52,826 - INFO - 127.0.0.1 - - [17/Aug/2025 22:06:52] "GET / HTTP/1.1" 200 -
+2025-08-17 22:09:03,338 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:09:04,479 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:09:04,674 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:09:05,513 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:09:05,546 - ERROR - LDA error: name 'stopwords' is not defined
+2025-08-17 22:09:05,547 - WARNING - KeyBERT not installed, skipping
+2025-08-17 22:09:05,557 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:09:37,901 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:09:42,208 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:09:47,963 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:09:53,946 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:09:59,857 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:06,187 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:10,504 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:14,188 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:24,791 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:34,427 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:42,942 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:48,208 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:10:52,751 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:11:06,400 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:11:10,266 - INFO -  * Detected change in 'C:\\Users\\yurch\\Desktop\\RAG-поисковик\\pythonProject1\\main6.py', reloading
+2025-08-17 22:11:23,224 - INFO -  * Restarting with stat
+2025-08-17 22:11:43,367 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:11:45,199 - INFO - Loaded spaCy model for en
+2025-08-17 22:11:46,020 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 22:11:46,139 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 22:11:48,794 - INFO - Loaded spaCy model for ru
+2025-08-17 22:11:50,563 - INFO - Loaded spaCy model for es
+2025-08-17 22:11:58,790 - INFO - Loaded spaCy model for fr
+2025-08-17 22:12:01,444 - INFO - Loaded spaCy model for de
+2025-08-17 22:12:04,098 - INFO - Loaded spaCy model for zh
+2025-08-17 22:12:13,564 - ERROR - Error loading SentenceTransformer: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-08-17 22:12:16,440 - INFO - Transformer models loaded successfully
+2025-08-17 22:12:16,444 - INFO - Loaded term cache with 2796 entries
+2025-08-17 22:12:16,460 - WARNING -  * Debugger is active!
+2025-08-17 22:12:16,480 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 22:12:19,782 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:12:20,812 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:12:20,974 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:12:21,943 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:12:22,008 - ERROR - LDA error: name 'stopwords' is not defined
+2025-08-17 22:12:22,011 - WARNING - KeyBERT not installed, skipping
+2025-08-17 22:12:22,027 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:12:42,064 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:12:46,974 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:12:53,096 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:12:58,857 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:04,893 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:11,219 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:15,515 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:18,761 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:24,409 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:29,131 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:32,845 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:41,445 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:13:57,034 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:13:57,035 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:14:12,572 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:14:12,572 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:14:17,604 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:14:33,195 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:14:33,196 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:14:48,721 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:14:48,721 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:15:05,193 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:15:20,724 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:15:20,724 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:15:39,504 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:15:45,174 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:15:51,189 - INFO - Using TF-IDF for clustering
+2025-08-17 22:15:52,650 - ERROR - Wordcloud error: name 'WordCloud' is not defined
+2025-08-17 22:15:55,728 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:15:57,969 - INFO - 127.0.0.1 - - [17/Aug/2025 22:15:57] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:19:12,000 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:19:13,908 - INFO - Loaded spaCy model for en
+2025-08-17 22:19:14,465 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 22:19:14,553 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 22:19:16,601 - INFO - Loaded spaCy model for ru
+2025-08-17 22:19:18,263 - INFO - Loaded spaCy model for es
+2025-08-17 22:19:26,011 - INFO - Loaded spaCy model for fr
+2025-08-17 22:19:28,922 - INFO - Loaded spaCy model for de
+2025-08-17 22:19:31,648 - INFO - Loaded spaCy model for zh
+2025-08-17 22:19:41,691 - ERROR - Error loading SentenceTransformer: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-08-17 22:19:43,320 - INFO - Transformer models loaded successfully
+2025-08-17 22:19:43,323 - INFO - Loaded term cache with 2796 entries
+2025-08-17 22:19:43,344 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.2.116:5000
+2025-08-17 22:19:43,344 - INFO - [33mPress CTRL+C to quit[0m
+2025-08-17 22:19:43,347 - INFO -  * Restarting with stat
+2025-08-17 22:19:56,696 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:19:58,406 - INFO - Loaded spaCy model for en
+2025-08-17 22:19:58,950 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 22:19:58,996 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 22:20:00,895 - INFO - Loaded spaCy model for ru
+2025-08-17 22:20:02,652 - INFO - Loaded spaCy model for es
+2025-08-17 22:20:11,404 - INFO - Loaded spaCy model for fr
+2025-08-17 22:20:14,056 - INFO - Loaded spaCy model for de
+2025-08-17 22:20:16,568 - INFO - Loaded spaCy model for zh
+2025-08-17 22:20:25,933 - ERROR - Error loading SentenceTransformer: Your currently installed version of Keras is Keras 3, but this is not yet supported in Transformers. Please install the backwards-compatible tf-keras package with `pip install tf-keras`.
+2025-08-17 22:20:29,293 - INFO - Transformer models loaded successfully
+2025-08-17 22:20:29,296 - INFO - Loaded term cache with 2796 entries
+2025-08-17 22:20:29,315 - WARNING -  * Debugger is active!
+2025-08-17 22:20:29,340 - INFO -  * Debugger PIN: 142-890-064
+2025-08-17 22:20:30,555 - INFO - 127.0.0.1 - - [17/Aug/2025 22:20:30] "GET / HTTP/1.1" 200 -
+2025-08-17 22:21:07,541 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:07,778 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:08,209 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:08,572 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:09,069 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:09,327 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:09,738 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:10,139 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:10,637 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:10,873 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:11,146 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:11,446 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:11,653 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:21:12,491 - ERROR - LDA error: name 'stopwords' is not defined
+2025-08-17 22:21:12,493 - WARNING - KeyBERT not installed, skipping
+2025-08-17 22:21:12,502 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:21:50,807 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:21:55,439 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:01,399 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:07,958 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:15,289 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:21,230 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:25,975 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:34,011 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:41,251 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:48,544 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:22:56,298 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:03,043 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:08,384 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:14,491 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:19,551 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:24,699 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:29,829 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:31,410 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:37,984 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:41,487 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:23:57,081 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:23:57,082 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:24:12,606 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:24:12,606 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:24:28,135 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:24:28,135 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:24:39,566 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:24:46,205 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:25:01,749 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:25:01,750 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:25:17,292 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:25:17,293 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:25:32,872 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:25:32,872 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:25:48,465 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:25:48,466 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:26:04,051 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:26:04,052 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:26:19,601 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:26:19,602 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:26:35,144 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:26:35,144 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:26:50,684 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:26:50,684 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:27:06,276 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:27:06,276 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:27:21,805 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:27:21,806 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:27:37,391 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:27:37,391 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:27:52,923 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:27:52,923 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:28:08,506 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:28:08,506 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:28:24,197 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:28:24,197 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:28:31,960 - INFO - Using TF-IDF for clustering
+2025-08-17 22:28:33,217 - ERROR - Wordcloud error: name 'WordCloud' is not defined
+2025-08-17 22:28:36,041 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:28:38,894 - INFO - 127.0.0.1 - - [17/Aug/2025 22:28:38] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:37:03,507 - ERROR - Pullenti processing error: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:37:11,807 - ERROR - Pullenti processing error: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 22:38:33,705 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:38:37,756 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:38:53,256 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:38:53,338 - INFO - 127.0.0.1 - - [17/Aug/2025 22:38:53] "POST /upload HTTP/1.1" 200 -
+2025-08-17 22:38:53,386 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:38:53,416 - INFO - 127.0.0.1 - - [17/Aug/2025 22:38:53] "POST /upload HTTP/1.1" 200 -
+2025-08-17 22:40:00,029 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:40:05,296 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:40:59,967 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:00,209 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:00,479 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:25,390 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:27,407 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:28,700 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:28,936 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:30,408 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:30,669 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:41:47,968 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:42:03,236 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:42:07,464 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:42:08,718 - ERROR - LDA error: name 'stopwords' is not defined
+2025-08-17 22:42:08,719 - WARNING - KeyBERT not installed, skipping
+2025-08-17 22:42:08,729 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:10,130 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:13,561 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:17,741 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:24,178 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:27,991 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:33,036 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:37,123 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:42,398 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:47,815 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:52,456 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:42:56,097 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:00,914 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:06,873 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:11,031 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:15,678 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:20,683 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:24,680 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:28,492 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:35,144 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:42,578 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:43:58,114 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:43:58,114 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:44:12,987 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:44:28,513 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:44:28,514 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:44:44,032 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:44:44,033 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:44:56,670 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.22.35:8064
+
+2025-08-17 22:44:56,671 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:45:12,256 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:45:12,257 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:45:27,785 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:45:27,785 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:45:40,901 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.22.35:8064
+
+2025-08-17 22:45:40,901 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:45:56,427 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:45:56,427 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:00,788 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:14,149 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.22.35:8064
+
+2025-08-17 22:46:14,149 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:18,232 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:23,137 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:38,717 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:46:38,717 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:43,907 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:46,238 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:46:47,845 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:47:03,431 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:47:03,431 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:47:08,745 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:47:22,820 - ERROR - Similar articles error: NCBI C++ Exception:
+    Error: TXCLIENT(CException::eUnknown) "/pubmed_gen/rbuild/version/20250512/entrez/2.20/src/internal/txclient/TxClient.cpp", line 1100: ncbi::CTxRawClientImpl::readAll() --- Read failed: EOF (the other side has unexpectedly closed connection), peer: 130.14.22.35:8064
+
+2025-08-17 22:47:22,820 - INFO - Using TF-IDF for clustering
+2025-08-17 22:47:23,608 - ERROR - Wordcloud error: name 'WordCloud' is not defined
+2025-08-17 22:47:25,261 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:47:27,788 - INFO - 127.0.0.1 - - [17/Aug/2025 22:47:27] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:50:42,756 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:50:47,481 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:50:47,810 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:50:47,834 - INFO - 127.0.0.1 - - [17/Aug/2025 22:50:47] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:50:53,917 - INFO - 127.0.0.1 - - [17/Aug/2025 22:50:53] "GET / HTTP/1.1" 200 -
+2025-08-17 22:51:13,347 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:51:17,946 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:51:18,303 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:51:18,329 - INFO - 127.0.0.1 - - [17/Aug/2025 22:51:18] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:51:20,120 - INFO - 127.0.0.1 - - [17/Aug/2025 22:51:20] "GET / HTTP/1.1" 200 -
+2025-08-17 22:51:43,035 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:51:43,046 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:51:46,012 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:52:01,594 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:52:02,036 - ERROR - Wordcloud error: name 'WordCloud' is not defined
+2025-08-17 22:52:02,619 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:52:02,992 - INFO - 127.0.0.1 - - [17/Aug/2025 22:52:02] "POST /search HTTP/1.1" 200 -
+2025-08-17 22:52:18,236 - INFO - 127.0.0.1 - - [17/Aug/2025 22:52:18] "GET / HTTP/1.1" 200 -
+2025-08-17 22:52:31,168 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:52:39,094 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:52:49,045 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:53:07,464 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:53:12,286 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:53:22,657 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:53:25,648 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:08,345 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:12,586 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:15,056 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:39,859 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:41,377 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:54:53,391 - ERROR - Error in extract_entities: 'str' object has no attribute 'get'
+2025-08-17 22:55:13,766 - ERROR - LDA error: name 'stopwords' is not defined
+2025-08-17 22:55:13,768 - WARNING - KeyBERT not installed, skipping
+2025-08-17 22:55:13,779 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:20,503 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:24,538 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:32,346 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:39,194 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:45,948 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:51,862 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:55:57,617 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:01,264 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:04,298 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:07,062 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:09,711 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:13,072 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:19,381 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:25,616 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:30,148 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:37,648 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:39,454 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:46,266 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:53,693 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:56:59,362 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:03,196 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:05,746 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:07,366 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:11,007 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:26,587 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:57:26,588 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:38,089 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:57:53,614 - ERROR - Similar articles error: IncompleteRead(167 bytes read)
+2025-08-17 22:57:53,614 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:01,822 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:03,359 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:18,670 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:21,622 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:23,370 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:26,826 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:29,825 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:32,844 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:35,632 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:38,275 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:40,989 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:58:44,819 - ERROR - Error in preprocess_text: name 'stopwords' is not defined
+2025-08-17 22:59:00,302 - INFO - Using TF-IDF for clustering
+2025-08-17 22:59:01,124 - ERROR - Wordcloud error: name 'WordCloud' is not defined
+2025-08-17 22:59:03,573 - ERROR - Insights generation error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+2025-08-17 22:59:06,475 - INFO - 127.0.0.1 - - [17/Aug/2025 22:59:06] "POST /search HTTP/1.1" 200 -
+2025-08-17 23:46:47,352 - INFO -  * Detected change in 'C:\\Users\\yurch\\Desktop\\RAG-поисковик\\pythonProject1\\main6.py', reloading
+2025-08-17 23:47:00,184 - INFO -  * Restarting with stat
+2025-08-17 23:47:21,420 - ERROR - Failed to initialize Pullenti SDK: module 'pullenti' has no attribute 'ProcessorService'
+2025-08-17 23:47:23,332 - INFO - Loaded spaCy model for en
+2025-08-17 23:47:24,069 - INFO - Loading dictionaries from C:\Users\yurch\Desktop\RAG-поисковик\pythonProject1\.venv\Lib\site-packages\pymorphy3_dicts_ru\data
+2025-08-17 23:47:24,198 - INFO - format: 2.4, revision: 417150, updated: 2022-01-08T22:09:24.565962
+2025-08-17 23:47:26,464 - INFO - Loaded spaCy model for ru
+2025-08-17 23:47:28,172 - INFO - Loaded spaCy model for es

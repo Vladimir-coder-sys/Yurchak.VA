@@ -1,0 +1,32 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyArgumentEqualDefaultInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="false" level="INFORMATION" enabled_by_default="false">
+      <option name="ignoredPackages">
+        <value>
+          <list size="16">
+            <item index="0" class="java.lang.String" itemvalue="shap" />
+            <item index="1" class="java.lang.String" itemvalue="torch" />
+            <item index="2" class="java.lang.String" itemvalue="biopython" />
+            <item index="3" class="java.lang.String" itemvalue="docker" />
+            <item index="4" class="java.lang.String" itemvalue="pandas" />
+            <item index="5" class="java.lang.String" itemvalue="transformers" />
+            <item index="6" class="java.lang.String" itemvalue="spacy" />
+            <item index="7" class="java.lang.String" itemvalue="scikit-learn" />
+            <item index="8" class="java.lang.String" itemvalue="numba" />
+            <item index="9" class="java.lang.String" itemvalue="numpy" />
+            <item index="10" class="java.lang.String" itemvalue="werkzeug" />
+            <item index="11" class="java.lang.String" itemvalue="networkx" />
+            <item index="12" class="java.lang.String" itemvalue="rdflib" />
+            <item index="13" class="java.lang.String" itemvalue="plotly" />
+            <item index="14" class="java.lang.String" itemvalue="flask" />
+            <item index="15" class="java.lang.String" itemvalue="sentence-transformers" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="QodanaSanity" enabled="true" level="ERROR" enabled_by_default="true" />
+    <inspection_tool class="RestRoleInspection" enabled="true" level="WARNING" enabled_by_default="true" />
+  </profile>
+</component>
