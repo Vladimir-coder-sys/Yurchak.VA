@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  neurosearch:
+    build: .
+    ports:
+      - "5000:5000"
+    environment:
+      - CORE_API_KEY=3qj6Ggun9KY1AJPOlvLRHpmVUxkZEeCo
+      - UMLS_API_KEY=5266ecdf-b5ef-4f6c-922b-55c224f950b9
+      - OPENAI_API_KEY=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
+      - NANONETS_API_KEY=dk_bIGNaCGH-qw8PvsZu9coMcu-CGXC7
+      - NANONETS_MODEL_ID=1927b9d9-efd3-4345-8911-fa8203123d11
+      - ABBYY_APP_ID=51a7f7a1-ccba-412a-b831-59a630780da0
+      - ABBYY_PASSWORD=GETE#911*Uc13
+    volumes:
+      - ./term_cache.pkl:/app/term_cache.pkl
+      - ./rare_terms.txt:/app/rare_terms.txt
