@@ -36,7 +36,8 @@ from pullenti.ner.SourceOfAnalysis import SourceOfAnalysis
 import numpy as np
 import time  # For ABBYY polling
 from wordcloud import WordCloud  # For improved graphics: word cloud
-
+from dotenv import load_dotenv
+load_dotenv()
 # Suppress warnings
 warnings.filterwarnings("ignore", category=UserWarning)
 
@@ -89,12 +90,12 @@ if os.path.exists(TERM_CACHE_FILE):
     except:
         term_cache = {}
 
-CORE_API_KEY = os.getenv("CORE_API_KEY", "3qj6Ggun9KY1AJPOlvLRHpmVUxkZEeCo")
-UMLS_API_KEY = os.getenv("UMLS_API_KEY", "5266ecdf-b5ef-4f6c-922b-55c224f950b9")
-NANONETS_API_KEY = os.getenv("dk_bIGNaCGH-qw8PvsZu9coMcu-CGXC7")  # New: For Nanonets API
-NANONETS_MODEL_ID = os.getenv("1927b9d9-efd3-4345-8911-fa8203123d11")  # Assume a pre-trained custom model ID
-ABBYY_APP_ID = os.getenv("51a7f7a1-ccba-412a-b831-59a630780da0")  # New: For ABBYY
-ABBYY_PASSWORD = os.getenv("GETE#911*Uc13")  # New
+CORE_API_KEY = os.getenv("CORE_API_KEY")
+UMLS_API_KEY = os.getenv("UMLS_API_KEY")
+NANONETS_API_KEY = os.getenv("NANONETS_API_KEY") # New: For Nanonets API
+NANONETS_MODEL_ID = os.getenv("NANONETS_MODEL_ID")  # Assume a pre-trained custom model ID
+ABBYY_APP_ID = os.getenv("ABBYY_APP_ID")  # New: For ABBYY
+ABBYY_PASSWORD = os.getenv("ABBYY_PASSWORD")# New
 prio_sabs = ["SNOMEDCT_US", "MSH", "MEDCIN", "ICD10CM", "RXNORM", "CPT", "LOINC"]
 
 # Exclude terms

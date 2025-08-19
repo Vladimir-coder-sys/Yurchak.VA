@@ -50,7 +50,8 @@ from Bio import Entrez
 from Bio import Medline
 import pullenti
 from pullenti.ner import Referent
-
+from dotenv import load_dotenv
+load_dotenv()
 # Убедимся в воспроизводимости результатов
 DetectorFactory.seed = 0
 np.random.seed(42)
@@ -147,12 +148,12 @@ if os.path.exists(TERM_CACHE_FILE):
         term_cache = {}
 
 # API ключи
-CORE_API_KEY = os.getenv("CORE_API_KEY", "3qj6Ggun9KY1AJPOlvLRHpmVUxkZEeCo")
-UMLS_API_KEY = os.getenv("UMLS_API_KEY", "5266ecdf-b5ef-4f6c-922b-55c224f950b9")
-OPENAI_API_KEY = os.getenv("OPENAI_API_KEY", "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")
-NANONETS_API_KEY = os.getenv("NANONETS_API_KEY", "dk_bIGNaCGH-qw8PvsZu9coMcu-CGXC7")
-ABBYY_APP_ID = os.getenv("ABBYY_APP_ID", "51a7f7a1-ccba-412a-b831-59a630780da0")
-ABBYY_PASSWORD = os.getenv("ABBYY_PASSWORD", "GETE#911*Uc13")
+CORE_API_KEY = os.getenv("CORE_API_KEY")
+UMLS_API_KEY = os.getenv("UMLS_API_KEY")
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+NANONETS_MODEL_ID = os.getenv("NANONETS_MODEL_ID")
+ABBYY_APP_ID = os.getenv("ABBYY_APP_ID")
+ABBYY_PASSWORD = os.getenv("ABBYY_PASSWORD")
 
 # Оптимизированный список медицинских терминологических источников
 PRIO_SABS = [
